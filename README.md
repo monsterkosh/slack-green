@@ -34,3 +34,6 @@ Close the terminal window to stop it.
 ## How it works
 
 Slack Green periodically generates minimal keyboard and mouse activity using ydotool, helping Slack remain in an active state while running under Wayland.
+
+<img width="957" height="254" alt="image" src="https://github.com/user-attachments/assets/e67b1c77-164e-42c6-9fc3-b5d408c37eb3" />
+
