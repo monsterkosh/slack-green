@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Slack Green
+Comment=Keep Slack active on Wayland
+Exec=__INSTALL_PATH__/slack-green
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;
